@@ -1297,8 +1297,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-10-08 212416.png>) 
-![alt text](<Screenshot 2025-10-07 222637.png>) 
-![alt text](<Screenshot 2025-10-08 212341.png>) 
+![alt text](<Screenshot 2025-10-08 212341.png>)
+![alt text](<Screenshot 2025-10-08 212401.png>)
+![alt text](<Screenshot 2025-10-08 212416.png>)
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
